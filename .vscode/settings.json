@@ -1,0 +1,5 @@
+{
+  "prettier.packageManager": "yarn",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true
+}
