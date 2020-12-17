@@ -39,11 +39,12 @@
         "tsx": "never"
       }
     ],
+    "camelcase": "off",
     "prettier/prettier": "error"
   },
   "settings": {
     "import/resolver": {
       "typescript": {}
     }
-  }
+  },
 }
